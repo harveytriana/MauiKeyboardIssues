@@ -4,9 +4,9 @@ When you give focus to an Entry control the virtual keyboard is displayed, but t
 
 The following image illustrates the issue. Even the navigation title was displaced by the keyboard image.
 
-<center>
+<p align="center">
     <img src="https://github.com/harveytriana/MauiKeyboardIssues/blob/master/Screens/net7-1.png" width="35%" height="35%">
-</center>
+</p>
 
 When we hide the keyboard, the screen is shown full.
 
