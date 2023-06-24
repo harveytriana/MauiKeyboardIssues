@@ -1,4 +1,4 @@
-##The Screen is partially scrolled when showing virtual keyboard - MAUI .NET 7.
+# The Screen is partially scrolled when showing virtual keyboard - MAUI .NET 7.
 
 When you give focus to an Entry control the virtual keyboard is displayed, but the top of the screen is apparently displaced and doesn't look complete. I report it as an ISSUE because the same does not happen in MAUI .NET 6.
 
