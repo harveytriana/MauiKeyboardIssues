@@ -20,7 +20,7 @@ This is the correct behavior, the same application in MAUI .NET 6:
 <img src="https://github.com/harveytriana/MauiKeyboardIssues/blob/master/Screens/net6-1.png" width="35%" height="35%">
 </p>
 
-Something
+You can continue adding or receiving messages without losing the reading of the last additions.
 
 <p align="center">
 <img src="https://github.com/harveytriana/MauiKeyboardIssues/blob/master/Screens/net6-2.png" width="35%" height="35%">
