@@ -3,7 +3,8 @@
 When you give focus to an Entry control the virtual keyboard is displayed, but the top of the screen is apparently displaced and doesn't look complete. I report it as an ISSUE because the same does not happen in MAUI .NET 6.
 
 The following image illustrates the issue. Even the navigation title was displaced by the keyboard image.
-<div style="text-align:center">
+
+<div style="display:block;text-align:center">
     <img src="https://github.com/harveytriana/MauiKeyboardIssues/blob/master/Screens/net7-1.png" width="35%" height="35%">
 </div>
 
