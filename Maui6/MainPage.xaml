@@ -41,8 +41,7 @@
                             Text="{Binding .}"
                             Margin="4"
                             Padding="4"
-                            BackgroundColor="White"
-                            FontAttributes="None" />
+                            BackgroundColor="White" />
                     </DataTemplate>
                 </CollectionView.ItemTemplate>
             </CollectionView>
@@ -50,8 +49,7 @@
                 Grid.Row="1"
                 x:Name="entryMessage" 
                 Placeholder="Message" 
-                BackgroundColor="AliceBlue"
-                HorizontalOptions="FillAndExpand" />
+                BackgroundColor="AliceBlue" />
         </Grid>
     </Grid>
 </ContentPage>
