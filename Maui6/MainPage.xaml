@@ -12,8 +12,7 @@
             x:Name="labelTitle"
             Text="Log In"
             FontSize="20"
-            HorizontalOptions="Center"
-            />
+            HorizontalOptions="Center" />
         <VerticalStackLayout
             Grid.Row="1"
             x:Name="stackLayoutLogIn"
