@@ -13,7 +13,9 @@ When we hide the keyboard, the screen is shown full.
 <p align="center">
 <img src="https://github.com/harveytriana/MauiKeyboardIssues/blob/master/Screens/net7-2.png" width="35%" height="35%">
 </p>
+
 ---
+
 This is the correct behavior, the same application in MAUI .NET 6:
 
 <p align="center">
